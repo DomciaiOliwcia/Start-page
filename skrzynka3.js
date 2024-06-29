@@ -110,7 +110,7 @@ function drawStartButton() {
   // Zmiana koloru przycisku po kliknięciu
   if (buttonClicked) {
     fill(colors.purple);
-    window.location.href = ''https://tradski.github.io/Sekrety/'';
+    window.location.href = 'https://tradski.github.io/Sekrety/' ;
   } else if (buttonHovered) {
     fill(colors.darkPink);
   } else {
